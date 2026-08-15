@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-rxpr6g.tata4dkes.cyou/sitemap.xml
